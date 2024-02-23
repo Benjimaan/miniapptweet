@@ -25,7 +25,7 @@ const DEFAULT_TWEET = [
     id: 3,
     name: "Zeke",
     content: "Papaaaaaa !!!",
-    like: 175
+    like: 100
   },
 ]
 
